@@ -60,5 +60,7 @@
 h1{
 
     text-align: center;
-    color:  #849175;
+    border: solid 4px #cece76;
+    background: #849175;
+    color: #fff;
 }
